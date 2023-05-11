@@ -1,5 +1,6 @@
-Git is a distributed version control system.
+Geit is a distributed version control system.
 Git is free software.
 god good
 Git has a mutable index called stage.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
